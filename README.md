@@ -19,8 +19,9 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realshivv&theme=github_dark" alt="realshivv's GitHub Stats"/></td>
     </tr>
  </table>
-</div>
+</div> 
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **realshivv/realshivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
