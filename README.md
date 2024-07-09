@@ -21,7 +21,7 @@
  </table>
 </div> 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/realshivv/realshivv/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **realshivv/realshivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
