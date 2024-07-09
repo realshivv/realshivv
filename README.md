@@ -1,5 +1,12 @@
 <img backgroundcolor=gradientbluee src="/Banner.jpg">
 <h1 align="center">Hi 👋, I'm Shiv Kumar Mishra</h1>
+<h3 align="center">FULL STACK DEVELOPER</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realshivv&label=Profile%20views&color=0e75b6&style=flat" alt="realshivv" /></p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realshivv" alt="realshivv" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realshivv&show_icons=true&locale=en&layout=compact" alt="realshivv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realshivv&" alt="realshivv" /></p>
 
 <!--
 **realshivv/realshivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
