@@ -1,4 +1,5 @@
-## Hi there 👋
+<img backgroundcolor=gradientbluee src="/">
+<h1 align="center">Hi 👋, I'm</h1>
 
 <!--
 **realshivv/realshivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
