@@ -19,7 +19,7 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realshivv&theme=github_dark" alt="realshivv's GitHub Stats"/></td>
     </tr>
  </table>
-</div> 
+
 ![snake gif](https://github.com/realshivv/realshivv/blob/output/github-contribution-grid-snake.gif)
 
 <!--
