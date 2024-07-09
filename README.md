@@ -1,12 +1,26 @@
 <img backgroundcolor=gradientbluee src="/Banner.jpg">
 <h1 align="center">Hi 👋, I'm Shiv Kumar Mishra</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realshivv&label=Profile%20views&color=0e75b6&style=flat" alt="realshivv" /></p>
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realshivv" alt="realshivv" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realshivv&label=Visitors&color=0e75b6&style=flat" alt="shivv" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realshivv&show_icons=true&locale=en&layout=compact" alt="realshivv" /></p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realshivv&theme=github_dark" alt="realshivv's GitHub Stats"/>
+</td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=realshivv&theme=merko" alt="realshivv's Contribution Streak"/></td>
+    </tr>
+ </table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realshivv&" alt="realshivv" /></p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=realshivv&theme=github_dark" alt="realshivv's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realshivv&theme=github_dark&utcOffset=10" alt="realshivv's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realshivv&theme=github_dark" alt="realshivv's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realshivv&theme=github_dark" alt="realshivv's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
+
 
 <!--
 **realshivv/realshivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
