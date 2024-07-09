@@ -1,5 +1,5 @@
-<img backgroundcolor=gradientbluee src="/">
-<h1 align="center">Hi 👋, I'm</h1>
+<img backgroundcolor=gradientbluee src="/Banner.jpg">
+<h1 align="center">Hi 👋, I'm Shiv Kumar Mishra</h1>
 
 <!--
 **realshivv/realshivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
