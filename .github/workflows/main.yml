@@ -1,22 +1,23 @@
-name: Generate Datas
+name: Update Snake Animation
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+
 jobs:
-  build:
-    name: Jobs to update datas
+  update-readme-with-snake:
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-          with:
-          github_user_name: realshivv
-          svg_out_path: dist/github-contribution-grid-snake.svg - 
-          uses: crazy-max/ghaction-github-pages@v2.1.3
-          with:
-          target_branch: output
-          build_dir: dist
-          env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README with Snake animation
+        run: |
+          curl -sL https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg > snake.svg
+          sed -i '/<!--START_SECTION:waka-->/,/<!--END_SECTION:waka-->/d' README.md
+          echo '<!--START_SECTION:waka-->' >> README.md
+          echo '![snake gif](https://github.com/snaketrybe/Platane/snk/blob/output/github-contribution-grid-snake.svg)' >> README.md
+          echo '<!--END_SECTION:waka-->' >> README.md
+        shell: bash
+      - name: Comitting changes
+      
