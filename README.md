@@ -20,25 +20,7 @@
     </tr>
  </table>
 
- ## Snake eating my Contribution 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![snake gif](https://github.com/realshivv/realshivv/blob/output/github-contribution-grid-snake.gif)
+<!--## Snake eating my Contribution 
+![snake gif](https://github.com/realshivv/realshivv/blob/output/github-contribution-grid-snake.gif)-->
 
 
