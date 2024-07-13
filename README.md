@@ -1,4 +1,4 @@
-<img backgroundcolor=gradientbluee src="/Banner.jpg">
+
 <h1 align="center">Hi 👋, I'm Shiv Kumar Mishra</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realshivv&label=Visitors&color=0e75b6&style=flat" alt="shivv" /></p>
@@ -21,6 +21,8 @@
  </table>
 
 <!--## Snake eating my Contribution 
-![snake gif](https://github.com/realshivv/realshivv/blob/output/github-contribution-grid-snake.gif)-->
+![snake gif](https://github.com/realshivv/realshivv/blob/output/github-contribution-grid-snake.gif)
+
+<img backgroundcolor=gradientbluee src="/Banner.jpg">-->
 
 
