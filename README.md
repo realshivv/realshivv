@@ -7,7 +7,6 @@
     <tr>
        <td><img style="border: none;"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realshivv&theme=github_dark" alt="realshivv's GitHub Stats"/>
 </td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=realshivv&theme=merko" alt="realshivv's Contribution Streak"/></td>
     </tr>
  </table>
 
